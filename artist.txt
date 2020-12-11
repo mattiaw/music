@@ -1,0 +1,71 @@
+1,Simon & Garfunkel
+2,Acoustician
+3,CSNY (Crosby Stills Nash and Young)
+4,The Rolling Stones
+5,The Wallflowers
+6,Chicago
+7,Jackson Browne
+8,Steve Miller Band
+9,Dire Straits
+10,Doors
+11,Billy Joel
+12,Climax Blues Band
+13,Bachman Turner Overdrive
+14,Elton John
+15,Daryl Hall & John Oates
+16,Prince
+17,David Bowie
+18,Freddie Scott
+19,Lynyrd Skynyrd
+20,The Delfonics
+21,Derek & The Dominos
+22,Three Dog Night
+23,Bee Gees
+24,Blind Faith
+25,Cream
+26,Ringo Starr
+27,Beatles
+28,Ten Years After
+29,Elvis Presley
+30,Stealers Wheel
+31,Gerry Rafferty
+32,Jose Feliciano
+33,Bing Crosby
+34,Nat King Cole
+35,Elmo & Pasty
+36,The Waitresses
+37,Percy Faith
+38,The Beach Boys
+39,Brenda Lee
+40,Bobby Helms
+41,Perry Como
+42,Burl Ives
+43,Dean Martin
+44,Salsoul Orchestra
+45,Mormon Tabernacle Choir
+46,Vince Guaraldi Trio
+47,Jim Reeves
+48,Guess Who
+49,The Kinks
+50,Led Zeppelin
+51,Jim Croce
+52,Bob Seger
+53,Steely Dan
+54,Grateful Dead
+55,Boz Scaggs
+56,Cee Lo Green
+57,Marvin Gaye
+58,The Band
+59,Rod Stewart
+60,Ray Charles
+61,Willie Nelson
+62,Kent Nishimura
+63,Procol Harum
+64,The Hollies
+65,The Byrds
+66,The Who
+67,Mariah Carey
+68,Trisha Hamilton
+69,The Ronettes
+70,Carols from King's 2017
+71,Eric Clapton
