@@ -41,7 +41,7 @@
 41,Perry Como
 42,Burl Ives
 43,Dean Martin
-44,Salsoul Orchestra
+44,Salsoul Orchestrab
 45,Mormon Tabernacle Choir
 46,Vince Guaraldi Trio
 47,Jim Reeves
@@ -70,3 +70,43 @@
 70,Carols from King's 2017
 71,Eric Clapton
 72,The Mills Brothers
+73,Mighty Sparrow
+74,Trans-Siberian Orchestra
+75,Andy Williams
+76,The Chipmunks
+77,Blondie
+78,Dobie Gray
+79,Marmalade
+80,Bruce Springsteen
+81,Stevie Wonder
+82,Van Morrison
+83,Pretenders
+84,Otis Redding
+85,The Drifters
+86,The Mommas and the Papas
+87,Harry Nilsson
+88,Daddy Yankee
+89,Ken Salick
+90,Paul Simon
+91,Bruno Mars
+92,Jason Mraz
+93,Magic
+94,UB40
+95,Bob Marley
+96,Cars
+97,Talking Heads
+98,The Brothers Johnson
+99,Men At Work
+100,Maroon 5
+101,Terence Trent D'arby
+102,Barrett Strong
+103,Gordon Lightfoot
+104,Bobby McFerrin
+105,Madness
+106,Elvis Costello
+107,The Box Tops
+108,Bill Withers
+109,Frank Sinatra
+110,Shango
+111,Tambu
+

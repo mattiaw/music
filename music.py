@@ -74,8 +74,12 @@ def video(source):
 
 def format4yt(url):
     vid = pafy.new(url)
+    print(type(vid))
     best = vid.getbest()
-    video(best.url)  
+    print(type(best))
+    print(best.url)
+    video(best.url)
+
     time.sleep(vid.length)
 
 
@@ -85,6 +89,6 @@ vlc_instance = vlc.Instance()
 # creating a media player 
 player = vlc_instance.media_player_new()
 
-player.toggle_fullscreen()
+#player.toggle_fullscreen()
 
 controller(player)
